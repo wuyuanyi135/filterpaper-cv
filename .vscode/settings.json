@@ -1,0 +1,7 @@
+// Place your settings in this file to overwrite default and user settings.
+{
+    "python.pythonPath": "C:/Users/wuyuanyi/Anaconda3/python.exe",
+    "code-runner.customCommand": "python __init__.py",
+    "code-runner.showExecutionMessage": true,
+    "code-runner.runInTerminal": true
+}
